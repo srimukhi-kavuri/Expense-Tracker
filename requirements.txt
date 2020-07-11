@@ -16,7 +16,7 @@ django-session-timeout==0.0.3
 django-sslify==0.2.7
 django-sslserver==0.20
 django-toolbelt==0.0.1
-djangorestframework==3.9.0
+djangorestframework==3.9.1
 djongo==1.2.32
 docutils==0.14
 future==0.16.0
